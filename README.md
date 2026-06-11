@@ -1,7 +1,7 @@
 # Patrón de Diseño: Singleton
 **Asignatura:** Programación Orientada a Objetos — Nivel 3A  
-**Docente:** Edgardo Panchana  
-**Estudiante:** Vale  
+**Docente:** Ing. Edgardo Panchana  
+**Estudiante:** Valeria Viviana Aragundy Murillo
 **Lenguaje:** TypeScript  
 
 ---
