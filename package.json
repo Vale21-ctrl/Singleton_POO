@@ -1,0 +1,16 @@
+{
+  "name": "singleton-poo-3a",
+  "version": "1.0.0",
+  "description": "Patrón de diseño Singleton — POO 3A ULEAM",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
